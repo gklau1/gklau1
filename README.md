@@ -43,11 +43,10 @@
 ---
 
 ### 📈 PERFORMANCE_METRICS
-*Solo Leveling 👾💯*
+*Solo Leveling 👾💯 - [SYSTEM_PATCH_v1.1_APPLIED]*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gklau1&show_icons=true&theme=terminal&hide_border=true&include_all_commits=true" alt="gklau1 Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gklau1&theme=terminal" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gklau1&theme=terminal" alt="Streak Stats" />
 </p>
 
 ### 🐍 CONTRIBUTION_SNAKE
