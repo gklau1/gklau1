@@ -30,7 +30,7 @@
 ---
 
 ### 📈 PERFORMANCE_METRICS
-*Since you're starting fresh, these cards will "Level Up" as you commit code!*
+*Solo Leveling  👾💯*
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gklau1&show_icons=true&theme=terminal&include_all_commits=true&count_private=true" />
@@ -38,7 +38,7 @@
 </p>
 
 ### 🐍 CONTRIBUTION_SNAKE
-*Watch the snake eat your commits as you build your history:*
+*Shhhneaky shhnek*
 ![Github Snake](https://github.com/gklau1/gklau1/blob/output/github-contribution-grid-snake.svg)
 
 ---
