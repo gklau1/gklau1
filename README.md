@@ -46,7 +46,7 @@
 *Solo Leveling 👾💯*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gklau1&show_icons=true&theme=terminal&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gklau1&show_icons=true&theme=terminal&hide_border=true&include_all_commits=true" alt="gklau1 Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gklau1&theme=terminal" />
 </p>
 
