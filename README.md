@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=UPDATING+MODULES...;SYNTHESIZING+DESIGN...;RUNNING+IMPLEMENTATION...;VIVADO+WARNINGS:+9999+;IMPLEMENTATION+FAILED...💨" alt="Initialization" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=UPDATING+MODULES...;SYNTHESIZING+DESIGN...;RUNNING+IMPLEMENTATION...;VIVADO+WARNINGS+:+9999;IMPLEMENTATION+FAILED..." alt="Initialization" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 | :--- | :--- | :--- |
 | **Bash & Linux** | Mastering the `sudo` life and shell wizardry | `[▓▓▓░░░░░░░] 30%` |
 | **Low Level** | Wrestling bare metal and microcontrollers | `[▓▓▓▓▓░░░░░] 50%` |
-| **The Web** | Making hardware look pretty on a browser | `[▓░░░░░░░░░] 10%` |
+| **The Web** | Final Quest: Center a div | `[▓░░░░░░░░░] 10%` |
 
 ---
 
